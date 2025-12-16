@@ -24,3 +24,9 @@ Setup che viene effettuato una sola volta con l'indirizzo email dello sviluppato
 
 ### git push
 Operazione di invio delle modifiche della repository locale
+
+### git clone
+Consente di clonare un repository remoto - si usa solo la prima volta, poi:
+
+### git pull
+aggiorna il repository locale clonato precedentemente
