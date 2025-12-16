@@ -30,3 +30,5 @@ Consente di clonare un repository remoto - si usa solo la prima volta, poi:
 
 ### git pull
 aggiorna il repository locale clonato precedentemente
+
+### fine
